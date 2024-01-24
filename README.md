@@ -34,7 +34,7 @@ Time:- 5:00PM TO 7:00PM
 			<div> class="mt-2 ml-2">
 					<span id="error"></span>
 			</div>
-				<div class="credit">Made with <span style="color:tomato;font-size:20px;"></span> by <a  href="https://www.learningrobo.com/">Learning Robo</a></div>
+			
 			</div>
 			<div> class="column is-half spooky_bg">
 			</div>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" >
 <head>
+	<u align="center">
   <meta charset="UTF-8">
   <title>Invite card || learningrobo</title>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css'><link rel="stylesheet" href="./style.css">

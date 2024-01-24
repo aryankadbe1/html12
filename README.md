@@ -2,7 +2,24 @@
 	<u align="center">
 <html lang="en" >
 <head>
+<html>
+<head>
+<title>
+<u align="center">
+INVITATION CARD
+</title>
+</head>
+<body>
+<br>
+<h1 align="center"><b>INVITATION CARD</b></h1>
+<p align="center">
+<br>
+<b>
+Techmotsav 2024
 
+<br>    
+Venue :- Alumni building SBJITMR, Nagpur
+Time:- 5:00PM TO 7:00PM       
   <meta charset="UTF-8">
   <title>Invite card || learningrobo</title>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css'><link rel="stylesheet" href="./style.css">

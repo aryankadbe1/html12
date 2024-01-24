@@ -21,8 +21,7 @@ Techmotsav 2024
 Venue :- Alumni building SBJITMR, Nagpur
 Time:- 5:00PM TO 7:00PM       
   <meta charset="UTF-8">
-  <title>Invite card || learningrobo</title>
-  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css'><link rel="stylesheet" href="./style.css">
+  <title>Invite card || </title>
 </head>
 <body>
 <div class="wrapper">
